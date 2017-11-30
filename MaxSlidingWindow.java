@@ -1,9 +1,8 @@
+package com.all;
 
 /**
-  MaximumSlidingWindow
-
+	MaximumSlidingWindow
 */
-
 import java.util.*;
 
 public class MaxSlidingWindow {
